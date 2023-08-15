@@ -74,8 +74,12 @@ ul {
     padding: 7px;
 }
 
+body {
+    background: burlywood;
+}
+
 .header__content {
-    background: url(../images/headerbg.jpg) no-repeat center /cover;
+    background: linear-gradient(30deg,purple,black);
     background-attachment: fixed;
     height: 750px;
     display: flex;
